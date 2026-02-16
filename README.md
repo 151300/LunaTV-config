@@ -9,14 +9,14 @@ https://hafrey1.github.io/LunaTV-config
 👉 Base58编码订阅链接[精简版🎬源链接](https://raw.githubusercontent.com/151300/LunaTV-config/refs/heads/main/jin18.txt)    （推荐使用自己部署的代理）精简版禁18源
 
 ```bash
-https://pz.v88.qzz.io?format=2&source=jin18
+https://js.1513.de5.net?format=2&source=jin18
 ```
 ```bash
 https://dlj.zeabur.app/rsmi6
 ```
 👉 Base58编码订阅链接[精简版🎬+🔞源链接](https://dlj.zeabur.app/69v5w) （推荐使用自己部署的代理）精简版剔除无搜索结果和污染搜索结果源                             
 ```bash
-https://pz.v88.qzz.io?format=2&source=jingjian
+https://js.1513.de5.net?format=2&source=jingjian
 ```
 ```bash
 https://dlj.zeabur.app/69v5w
@@ -24,7 +24,7 @@ https://dlj.zeabur.app/69v5w
 
 👉 Base58编码订阅链接[完整版🎬+🔞源链接](https://dlj.zeabur.app/1a8f4) （推荐使用自己部署的代理）                          
 ```bash
-https://pz.v88.qzz.io?format=2&source=full
+https://js.1513.de5.net?format=2&source=full
 ```
 ```bash
 https://dlj.zeabur.app/1a8f4
