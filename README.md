@@ -29,10 +29,10 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/refs/heads/main/jingjian
 
 👉 Base58编码订阅链接[完整版🎬+🔞源链接](https://raw.githubusercontent.com/hafrey1/LunaTV-config/refs/heads/main/LunaTV-config.txt) （推荐使用自己部署的代理）                          
 ```bash
-https://pz.v88.qzz.io?format=2&source=full
+https://js.1513.de5.net?format=2&source=full
 ```
 ```bash
-https://raw.githubusercontent.com/hafrey1/LunaTV-config/refs/heads/main/LunaTV-config.txt
+https://raw.githubusercontent.com/151300/LunaTV-config/refs/heads/main/LunaTV-config.txt
 ```
 
 --- 
